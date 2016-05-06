@@ -106,6 +106,8 @@
             <li>SimPy - Discrete event simulation library for Python</li>
             <li>Bottle - Locally host web application for the user interface</li>
           </ul>
+        </section>
+
         <section>
           <section>
             <h1>Problems</h1>
