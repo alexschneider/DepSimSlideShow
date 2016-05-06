@@ -130,11 +130,21 @@
         </section>
 
         <section>
+          <h1>Future Work</h1>
+          <ul>
+            <li>Improve modeling language to be more comprehensive</li>
+            <li>Write graphical interface for creating a model (so in depth knowledge of the language isn't necessary)</li>
+            <li>Finish the graphical interface for the simulation results</li>
+            <li>Package the system up for distribution</li>
+          </ul>
+        </section>
+
+        <section>
           <h1>Thanks</h1>
           <h3>Professors</h3>
           <ul>
             <li>Professor Johnson for teaching the class</li>
-            <li>Dr. Dorin, Dr. Toal, and Dr. Dionisio for teaching relevant classes and helping out when I had questions</li>
+            <li>Dr. Dorin, Dr. Toal, Dr. Dionisio, and Caskey for teaching relevant classes and helping out when I had questions</li>
           </ul>
           <h3>Microsoft</h3>
           <ul>
@@ -143,16 +153,6 @@
           <h3>Family</h3>
           <ul>
             <li>All my family for supporting me</li>
-          </ul>
-        </section>
-
-        <section>
-          <h1>Future Work</h1>
-          <ul>
-            <li>Improve modeling language to be more comprehensive</li>
-            <li>Write graphical interface for creating a model (so in depth knowledge of the language isn't necessary)</li>
-            <li>Finish the graphical interface for the simulation results</li>
-            <li>Package the system up for distribution</li>
           </ul>
         </section>
 
