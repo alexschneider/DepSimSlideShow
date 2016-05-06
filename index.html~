@@ -100,6 +100,13 @@
         </section>
 
         <section>
+          <h1>Technologies Used</h1>
+          <ul>
+            <li>PyParsing - Recursive descent parsing library for Python</li>
+            <li>SimPy - Discrete event simulation library for Python</li>
+            <li>Bottle - Locally host web application for the user interface</li>
+          </ul>
+        <section>
           <section>
             <h1>Problems</h1>
             <ul>
